@@ -22,7 +22,7 @@ const greeting = {
   title: "Tim Verbeeck",
   logo_name: "TimVerbeeck",
   subTitle:
-    "Welkom op mijn creatieve uitwerking van mijn portfolio voor Italent.",
+    "Welkom op mijn creatieve uitwerking van mijn portfolio voor ITalent.",
   resumeLink: "",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/TimVerbeeckPXL",
