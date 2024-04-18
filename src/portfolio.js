@@ -554,6 +554,44 @@ const experience = {
       ],
     },
     {
+      title: "POP sessies",
+      experiences: [
+        {
+          title: "Brein aan het werk! Niet storen!",
+          company: "PXL",
+          company_url: "https://www.pxl.be/",
+          logo_path: "pxl_logo.png",
+          duration: "21 februari 2023",
+          location: "PXL, Campus Elfde Linie",
+          description:
+            "Hoeveel tijd spenderen we elke dag aan verschillende activiteiten. Door deze POP sessie heb ik hier een zicht op gekregen.",
+          color: "#000000",
+        },
+        {
+          title: "POPping",
+          company: "PXL",
+          company_url: "https://www.pxl.be/",
+          logo_path: "pxl_logo.png",
+          duration: "21 februari 2023",
+          location: "PXL, Campus Elfde Linie",
+          description:
+            "Tijdens deze POP sessie werd ons duidelijk gemaakt hoeveel invloed gsm gebruik werkelijk heeft op onze concentratie. En hoe we in de toekomst hier iets aan kunnen doen.",
+          color: "#000000",
+        },
+        {
+          title: "My Team and I",
+          company: "PXL",
+          company_url: "https://www.pxl.be/",
+          logo_path: "pxl_logo.png",
+          duration: "18 oktober 2023",
+          location: "PXL, ISpace Corda 7",
+          description:
+            "Tijdens deze POP sessie hebben we met het het team van het research project verschillende opdrachten uitgevoerd en puzzels opgelost. Dit was nuttig voor het teamwork en groepssfeer te verbeteren.",
+          color: "#000000",
+        },
+      ],
+    },
+    {
       title: "Extra's",
       experiences: [
         {
