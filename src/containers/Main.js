@@ -5,8 +5,6 @@ import Splash from "../pages/splash/Splash";
 import Education from "../pages/education/EducationComponent";
 import Experience from "../pages/experience/Experience";
 import Opensource from "../pages/opensource/Opensource";
-import Contact from "../pages/contact/ContactComponent";
-import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
 
@@ -31,14 +29,14 @@ export default class Main extends Component {
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
-            path="/experience"
+            path="/seminaries"
             exact
             render={(props) => (
               <Experience {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path="/education"
+            path="/opleiding"
             render={(props) => (
               <Education {...props} theme={this.props.theme} />
             )}
@@ -49,10 +47,6 @@ export default class Main extends Component {
               <Opensource {...props} theme={this.props.theme} />
             )}
           />
-          <Route
-            path="/contact"
-            render={(props) => <Contact {...props} theme={this.props.theme} />}
-          />
 
           {settings.isSplash && (
             <Route
@@ -61,10 +55,6 @@ export default class Main extends Component {
             />
           )}
 
-          <Route
-            path="/projects"
-            render={(props) => <Projects {...props} theme={this.props.theme} />}
-          />
           <Route
             path="*"
             render={(props) => <Error404 {...props} theme={this.props.theme} />}
