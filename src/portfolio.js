@@ -145,235 +145,69 @@ const skills = {
         //   style: {
         //     color: "#E34F26",
         //   },
-        // },
-        // {
-        //   skillName: "CSS3",
-        //   fontAwesomeClassname: "fa-css3",
-        //   style: {
-        //     color: "#1572B6",
-        //   },
-        // },
-        // {
-        //   skillName: "Sass",
-        //   fontAwesomeClassname: "simple-icons:sass",
-        //   style: {
-        //     color: "#CC6699",
-        //   },
-        // },
-        // {
-        //   skillName: "JavaScript",
-        //   fontAwesomeClassname: "simple-icons:javascript",
-        //   style: {
-        //     backgroundColor: "#000000",
-        //     color: "#F7DF1E",
-        //   },
-        // },
-        // {
-        //   skillName: "ReactJS",
-        //   fontAwesomeClassname: "simple-icons:react",
-        //   style: {
-        //     color: "#61DAFB",
-        //   },
-        // },
-        // {
-        //   skillName: "NodeJS",
-        //   fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-        //   style: {
-        //     color: "#339933",
-        //   },
-        // },
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837",
-        //   },
-        // },
-        // {
-        //   skillName: "Yarn",
-        //   fontAwesomeClassname: "simple-icons:yarn",
-        //   style: {
-        //     color: "#2C8EBB",
-        //   },
-        // },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
       ],
     },
     {
       title: "Zelfreflectie",
       fileName: "pxl_logo.png",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
-        // {
-        //   skillName: "AWS",
-        //   fontAwesomeClassname: "simple-icons:amazonaws",
-        //   style: {
-        //     color: "#FF9900",
-        //   },
-        // },
-        // {
-        //   skillName: "Azure",
-        //   fontAwesomeClassname: "simple-icons:microsoftazure",
-        //   style: {
-        //     color: "#0089D6",
-        //   },
-        // },
-        // {
-        //   skillName: "Firebase",
-        //   fontAwesomeClassname: "simple-icons:firebase",
-        //   style: {
-        //     color: "#FFCA28",
-        //   },
-        // },
-        // {
-        //   skillName: "PostgreSQL",
-        //   fontAwesomeClassname: "simple-icons:postgresql",
-        //   style: {
-        //     color: "#336791",
-        //   },
-        // },
-        // {
-        //   skillName: "MongoDB",
-        //   fontAwesomeClassname: "simple-icons:mongodb",
-        //   style: {
-        //     color: "#47A248",
-        //   },
-        // },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5",
-        //   },
-        // },
-      ],
+      skills: [],
+      softwareSkills: [],
     },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Wat heb ik bijgeleerd?",
+      fileName: "pxl_logo.png",
+      skills: [
+        "Dankzij I-Talent heb ik op meerdere vlakken kennis opgedaan. Niet enkel op vlak van technologie maar ook op vlak van sociale netwerken en connecties maken. Ik kan toch wel zeggen dat ik door I-Talent veranderd ben tegen vroeger.",
+        "Bij de seminaries heb ik veel bijgeleerd op vlak van programmeren. Ik heb de seminaries in mijn eerste jaar I-Talent gekozen op basis van mijn interesses. Hoewel ik sommige seminaries die ik liever had gedaan toen, niet heb kunnen doen omdat er geen plaatsen meer waren. Zo had ik bijvoorbeeld ook nog graag het seminarie over Flutter meegedaan. In mijn tweede jaar heb ik meer gekeken naar de lengte van het seminarie als ik eerlijk ben. Maar de seminaries die ik toen gevolgd had waren eerlijk gezegd nog de interessantste. Dit komt doordat ik geen verwachtingen had op voorhand toen ik ze gekozen had. En hierdoor heb ik ook meer bijgeleerd over onderwerpen die in eerste instantie niet binnen mijn interesses zouden zitten.",
+        "Tijdens de POP sessies heb ik belangrijke kennis opgedaan die mij tijdens mijn dagelijkse leven veel zal helpen. Tijdens de POP sessies heb ik geleerd hoeveel  tijd ik elke dag aan activiteiten spendeer, hoeveel invloed mijn gsm heeft op mijn concentratievermogen en beter te communiceren met mijn teamgenoten. Deze kennis ga ik nuttig kunnen gebruiken in de toekomst als ik activiteiten inplan of wat wil bespreken binnen een projectteam.",
+        "Door de hackathon heb ik nu een beter zicht hoe het is om te werken in de cyber security sector. Ook heb ik tijdens de hackathon geleerd te werken onder stress.",
+        "Het I-Talent avontuur heeft me doen inzien dat levenslang leren een noodzaak is voor mijn verdere carrière. Mijn visie hierop is dat streven om een beetje beter te zijn dan gisteren beter is dan helemaal niets te doen.",
+      ],
+      softwareSkills: [],
+    },
+    {
+      title:
+        "Welke zijn mijn sterktes? Op welke vlakken kan ik mezelf nog verbeteren?",
+      fileName: "pxl_logo.png",
+      skills: [
+        "Dankzij I-Talent ben ik erachter gekomen dat naast mijn sterktes in het denken, doen en samenwerken, ik ook een sterk doorzettingsvermogen heb. Als ik merk dat een deadline dichterbij komt en het wat moeilijker wordt om deze te halen, zet ik mij volledig in zodat ik deze toch nog zou halen. Wat ik ook merk is dat mijn communicatie verbeterd is. Dankzij I-Talent en mijn stage ben ik beter geworden in mijn mening en problemen uit te leggen.",
+        "Een punt waar ik nog in kan verbeteren is mijn concentratievermogen. Ik ben niet zo goed in het concentreren over een langere tijdspanne. Dit heb ik vooral gemerkt toen de seminaries wat te lang aan het duren waren naar mijn goesting. Wat nog een puntje is waar ik op kan verbeteren is mijn uitstelgedrag. Zo heb ik de bespreking van mijn activiteiten te lang uitgesteld en was het niet altijd even gemakkelijk om alle details te herinneren.",
+      ],
+      softwareSkills: [],
+    },
+    {
+      title: "In welke mate heb ik de X-Factor?",
+      fileName: "pxl_logo.png",
+      skills: [
+        "(Em)passie is een onderdeel geworden van mij sinds het eerste jaar. Toen ik voor deze richting gekozen had, had ik nog nooit iets met informatica gedaan. Maar vanaf het eerste moment dat ik programmeren kreeg, is mijn passie hiervoor ontstaan en alleen maar verder blijven groeien.",
+        "Het vlak van ondernemend en innovatief is ook aanwezig. Voor mobile development moesten we een applicatie maken en we mochten zelf een technologie kiezen. Ik wilde al een tijdje Flutter leren en heb deze opportuniteit gebruikt om deze technologie grondig door te nemen.",
+        "Het (Internationaal) samen(net)werken deel van de X-Factor ligt mij wel. Ik vind het leuk om in een team te werken en nieuwe mensen te leren kennen. In mijn laatste jaar ben ik ook bij een studentenvereniging gegaan en heb zo mijn netwerk nog eens uitgebreid",
+        "Doorheen mijn opleiding heb ik veel ervaring en kennis opgedaan. Hiermee kan ik met overtuiging zeggen dat ik met zekerheid Multi- & disciplinariteit heb. Ik kan van alle aspecten die bij het maken van een applicatie horen wel iets. Ook heb ik ervaring in de cyber security. Verder sta ik ook nog open om bij te leren op allerlei vlakken.",
+      ],
+      softwareSkills: [],
+    },
+    {
+      title: "Wie ben ik nu geworden en hoe ziet mijn leertraject eruit?",
+      fileName: "pxl_logo.png",
+      skills: [
+        "In het begin was ik geen fan van het concept van I-Talent. Maar als ik er nu op terugkijk, is het wel heel waardevol voor mij geweest. Het heeft mij nieuwe vaardigheden aangeleerd en nieuwe inzichten gegeven die ik anders niet zou hebben nu. I-Talent dient als een uitbreiding op het leerstofpakket dat aangeboden wordt en geeft je de vrijheid om zelf te kiezen wat je nog wilt bijleren. Deze ervaring zal zonder twijfel goed van pas komen in de toekomst. Al is het voortdurend leren natuurlijk niet gedaan.",
+      ],
+      softwareSkills: [],
+    },
+    {
+      title: "Hoe zie jij je toekomst?",
+      fileName: "pxl_logo.png",
+      skills: [
+        "In de toekomst hoop ik een fijne werkplek te hebben met leuke collega’s, waar ik als functie de code van andere mensen nakijk en feedback geef. Liefst zou ik nog wat doorstuderen na mijn bachelor in de toegepaste informatica. Ik ben nog aan het twijfelen of ik voor een masterdiploma ga of ik een leerkrachtenopleiding ga doen.",
+      ],
+      softwareSkills: [],
+    },
   ],
 };
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-    // {
-    //   siteName: "LeetCode",
-    //   iconifyClassname: "simple-icons:leetcode",
-    //   style: {
-    //     color: "#F79F1B",
-    //   },
-    //   profileLink: "https://leetcode.com/layman_brother/",
-    // },
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   profileLink: "https://www.hackerrank.com/layman_brother",
-    // },
-    // {
-    //   siteName: "Codechef",
-    //   iconifyClassname: "simple-icons:codechef",
-    //   style: {
-    //     color: "#5B4638",
-    //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    // },
-    // {
-    //   siteName: "Codeforces",
-    //   iconifyClassname: "simple-icons:codeforces",
-    //   style: {
-    //     color: "#1F8ACB",
-    //   },
-    //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
-    // },
-    // {
-    //   siteName: "Kaggle",
-    //   iconifyClassname: "simple-icons:kaggle",
-    //   style: {
-    //     color: "#20BEFF",
-    //   },
-    //   profileLink: "https://www.kaggle.com/laymanbrother",
-    // },
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
