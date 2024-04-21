@@ -195,7 +195,7 @@ const skills = {
       softwareSkills: [],
     },
     {
-      title: "Hoe zie jij je toekomst?",
+      title: "Hoe zie ik mijn toekomst?",
       fileName: "pxl_logo.png",
       skills: [
         "In de toekomst hoop ik een fijne werkplek te hebben met leuke collega’s, waar ik als functie de code van andere mensen nakijk en feedback geef. Liefst zou ik nog wat doorstuderen na mijn bachelor in de toegepaste informatica. Ik ben nog aan het twijfelen of ik voor een masterdiploma ga of ik een leerkrachtenopleiding ga doen.",
