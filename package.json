@@ -2,7 +2,7 @@
   "private": true,
   "name": "ITalent Portfolio",
   "version": "0.1.0",
-  "homepage": "https://TimVerbeeckPXL.github.io",
+  "homepage": "https://TimVerbeeck.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
